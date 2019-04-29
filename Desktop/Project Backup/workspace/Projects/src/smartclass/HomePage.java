@@ -125,8 +125,6 @@ public class HomePage {
 		
 		
 		
-		
-		
 		JMenuBar menuBar = new JMenuBar();
 		menuBar.setBackground(new Color(51, 51, 102));
 		
