@@ -6,5 +6,5 @@
       -> Run xamp or wamp or whatever serever you like
       }
       
-2- Tic Tac Toe: First game in java
+2- Tic Tac Toe: First game in java 
 
